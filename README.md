@@ -47,4 +47,8 @@ CREATE DATABASE mynewdb;
 quit
 
 РАЗРАБОТЧИКИ
-Гарбузенко Михаил fullstack https://t.me/mgarbuzenko
+Михаил Гарбузенко  fullstack https://t.me/mgarbuzenko
+Александр Вшивков  fullstack https://t.me/alexand_e_r_v
+Алексей Ромашов    fullstack https://t.me/lesst01
+
+
